@@ -92,7 +92,7 @@ Ensure that you have the following prerequisites installed on your system:
 - 2- Clone the repository
 
 ```bash
-  git clone https://github.com/D-Yashh/analytics.git
+  git clone https://github.com/D-Yashh/Sales-Analytics.git
 ```
 
 - 3- Navigate to the project directory
