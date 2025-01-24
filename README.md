@@ -178,7 +178,8 @@ Ensure that you have the following prerequisites installed on your system:
 
 Check out a brief demo of the Real-Time Sales Data Analysis Application dashboard:
 
-[Images/real-time-dashboard.mp4](Images/real-time-dashboard.mp4)
+[Images/real-time-dashboard.mp4](https://github.com/user-attachments/assets/5bfc79af-14a7-4087-877e-545f65846583)
+
 
     
 ## Conclusion
