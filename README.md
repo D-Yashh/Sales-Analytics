@@ -1,5 +1,5 @@
-# Real-Time-Sales-Data-Analysis-Application
-A real-time sales data analysis Application using Spark Structured Streaming, Kafka as a messaging system, PostgreSQL as a storage for processed data, and Superset for creating a dashboard.
+# Real-Time-Sales-Analysis
+A real-time sales data analysis using Spark Structured Streaming, Kafka as a messaging system, PostgreSQL as a storage for processed data, and Superset for creating a dashboard.
 
 ## Project Description
 A Technology parts retail distributor . Since sales are only written in a excel, it is easy to find daily sales but difficult to know monthly or yearly sales. As a result, the shop owners do not know their monthly and yearly sales, what products are sold most in which month, and which stocks need to be refilled and which don't. As they don't know the answers to these questions, they often overstock or understock many products which greatly affects their profits.
