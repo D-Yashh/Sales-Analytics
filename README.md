@@ -188,7 +188,7 @@ The Real-Time Sales Data Analysis Application is a robust solution designed to a
 
 ### Key Achievements
 
-- **Real-Time Analytics:** The application enables real-time analytics, allowing Mya Gon Yaung to monitor sales trends, identify popular products, and make informed decisions promptly.
+- **Real-Time Analytics:** The application enables real-time analytics, allowing to monitor sales trends, identify popular products, and make informed decisions promptly.
   
 - **Inventory Optimization:** By integrating with Spark Structured Streaming, the shop can now optimize inventory management, reducing instances of overstocking or understocking and ultimately improving profitability.
 
