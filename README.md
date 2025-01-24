@@ -92,13 +92,13 @@ Ensure that you have the following prerequisites installed on your system:
 - 2- Clone the repository
 
 ```bash
-  git clone https://github.com/alaahgag/Real-Time-Sales-Data-Analysis-Application.git
+  git clone https://github.com/D-Yashh/analytics.git
 ```
 
 - 3- Navigate to the project directory
 
 ```bash
-  cd Real-Time-Sales-Data-Analysis-Application
+  cd analytics
 ```
 
 - 4- install the needed packages and libraries
